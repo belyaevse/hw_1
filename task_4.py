@@ -5,6 +5,9 @@ from pyrob.api import *
 
 @task
 def task_3_3():
+    move_up()
+    fillcell()
+    
     pass
 
 
